@@ -1,0 +1,15 @@
+body{
+    width: 300px;
+    background-color: bisque;
+}
+
+p{
+    margin: 13px;
+    border: 1px dotted;
+    padding: 25px;
+
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: beige;
+
+}
